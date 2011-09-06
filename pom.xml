@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>message-cxf</groupId>
+	<groupId>edu.luc.etl.webservices</groupId>
 	<artifactId>numguess-client-cxf-java</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
